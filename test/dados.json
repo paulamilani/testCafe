@@ -1,0 +1,10 @@
+[
+    {
+        "user": "tomsmith",
+        "password": "uperSecretPassword!"
+    },
+    {
+        "userFail": "tomsmith1",
+        "passwordFail": "uperSecretError2"
+    }
+]
